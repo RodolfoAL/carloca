@@ -1,4 +1,7 @@
-Este repositório foi criado para receber a modelagem do exercício proposto no módulo sobre banco de dados do curso de programação da ADA. 
+Este repositório foi criado para receber a modelagem do exercício proposto no módulo sobre banco de dados do curso de programação da ADA.
+
+O arquivo exportado do MySQL Workbench é: Dump20230226.sql
+
 Segue abaixo o enunciado do exercício:
 
 Enunciado
